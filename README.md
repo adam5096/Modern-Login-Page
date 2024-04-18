@@ -1,4 +1,4 @@
-# [教材來源](https://www.youtube.com/watch?v=PlpM2LJWu-s&list=LL&index=32&t=683s)
+# [教材來源](https://www.youtube.com/watch?v=PlpM2LJWu-s)
 ## 個人練習，請勿挪用為商業用途
 
 Video Contents :
