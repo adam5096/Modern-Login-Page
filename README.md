@@ -3,6 +3,15 @@
 # 🔗[原作者+參考資料來源](https://www.youtube.com/watch?v=PlpM2LJWu-s)
 ## 🚫個人練習，請勿挪用為商業用途
 
+# 🔧使用編輯器/語言/其他依賴
+💻編輯器  
+>Visual Studio Code
+
+📝使用語言  
+>Html  
+>CSS  
+>JavaScript
+
 Video Contents :
 >00:00 - Intro  
 >00:29 - Warming hands  
